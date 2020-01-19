@@ -3,5 +3,6 @@
 	"CheckFingerGuideTime": 3,
 	"IsInsertVideoOpen": 1,
 	"InsertOpenNum": 0,
+	"FreeLevelUpCd":90,
 	"InsertConfig": [0, 5, 5, 5, 30, 3, 30, -1, 2]
 }
